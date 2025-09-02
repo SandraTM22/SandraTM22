@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandraTM22
 - 👀 I’m interested in web development, I am still undecided about which stack to choose.
-- 📫 How to reach me -> on my linkedin profile -> www.linkedin.com/in/sandra-developer
+- 📫 How to reach me -> on my linkedin profile -> www.linkedin.com/in/sandra-dev
 
 <!---
 SandraTM22/SandraTM22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
